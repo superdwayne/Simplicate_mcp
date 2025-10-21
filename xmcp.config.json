@@ -1,0 +1,12 @@
+{
+  "name": "simplicate-mcp",
+  "version": "1.0.0",
+  "transport": "stdio",
+  "stdio": true,
+  "http": true,
+  "paths": {
+    "tools": "src/tools",
+    "prompts": false,
+    "resources": false
+  }
+}
